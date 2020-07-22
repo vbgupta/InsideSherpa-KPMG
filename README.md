@@ -2,5 +2,5 @@
 KPMG Virtual Internship at Inside Sherpa Data Analysis Using R and Jupyter Notebook 
 Leveraging data provided by KPMG to help Sprokect Pty Ltd in marketing and cusotmer aquisition strategies
 
-Please read the other README file for a summary of the project
+Please read the other README file for a summary of the project.
 Cheers!
