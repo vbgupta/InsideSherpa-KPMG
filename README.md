@@ -23,25 +23,25 @@ Sprocket Pty Ltd needs help with marketing and customer acquisition. Primarily, 
 
 ### 2. Data 
 Each sheet in the excel file was extracted and formated to a .csv file. 
-a. TRANSACTION_KPMG.csv 
-b. CUSADD_KPMG.csv 
-c. newcus_kpmg.csv
+* TRANSACTION_KPMG.csv 
+* CUSADD_KPMG.csv 
+* newcus_kpmg.csv
 
 
 ### 3. Trends we see:
-a. Customer prefered brand is Solex 
-b. Most customers are 42 years old 
-c. Females make a majority of Sprocket's customer base 
-d. WeareA2B brings in the most profit 
-e. Females contribute to the most bike related purchases in the last 3 years 
-f. Most customers are form New South Wales 
-g. Most customers are from the financial sector
+* Customer prefered brand is Solex 
+* Most customers are 42 years old 
+* Females make a majority of Sprocket's customer base 
+* WeareA2B brings in the most profit 
+* Females contribute to the most bike related purchases in the last 3 years 
+* Most customers are form New South Wales 
+* Most customers are from the financial sector
 
 Focus on customers that: 
-a. Mass customer segment 
-b. Female customers 
-c. Customers live in NSW 
-d. Customers in the financial sector make the most transactions 
+* Mass customer segment 
+* Female customers 
+* Customers live in NSW 
+* Customers in the financial sector make the most transactions 
 
 ### 4. Conclusion
 Marketing and Growth Strategy 
