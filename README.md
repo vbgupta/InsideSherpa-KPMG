@@ -44,6 +44,7 @@ Each sheet in the excel file was extracted and formated to a .csv file.
 
 Focus on customers that: 
 * Mass customer segment 
+![alt text](https://github.com/vbgupta/InsideSherpa-KPMG/blob/master/Img/Customer%20Wealth%20Segment.png?raw=true)
 * Female customers 
 * Customers live in NSW 
 * Customers in the financial sector make the most transactions 
@@ -53,7 +54,3 @@ Marketing and Growth Strategy
 * Focus on afordibility of the Solex Brand that will be for the Mass customer segment. 
 * Advertizing can be female focused while also trageting the NSW area of Australia 
         Example: Can focus on light colored banners for the NSW area
-
-
-![alt text](https://github.com/vbgupta/InsideSherpa-KPMG/blob/master/Img/Customer%20Wealth%20Segment.png?raw=true)
-![alt text](https://github.com/vbgupta/InsideSherpa-KPMG/blob/master/Img/Most%20common%20customer%20job%20industry.png?raw=true)
