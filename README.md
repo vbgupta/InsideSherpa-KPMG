@@ -16,4 +16,9 @@ Leverage data provided by KPMG to help Sprokect Pty Ltd in marketing and cusotme
 ## What I used
 
 * R
-* 
+* Packages: ggplot2, dplyr
+
+## Findings
+![alt text]()
+![alt text]()
+![alt text]()
