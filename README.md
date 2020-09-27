@@ -30,12 +30,17 @@ Each sheet in the excel file was extracted and formated to a .csv file.
 
 ### 3. Trends we see:
 * Customer prefered brand is Solex 
-* Most customers are 42 years old 
-* Females make a majority of Sprocket's customer base 
-* WeareA2B brings in the most profit 
+![alt text](https://github.com/vbgupta/InsideSherpa-KPMG/blob/master/Img/Brand%20that%20occurs%20most%20often.png?raw=true)
+* Most customers are 42 years old
+* Females make a majority of Sprocket's customer base
+![alt text](https://github.com/vbgupta/InsideSherpa-KPMG/blob/master/Img/Gender%20Breakdown.png?raw=true)
+* WeareA2B brings in the most profit
+![alt text](https://github.com/vbgupta/InsideSherpa-KPMG/blob/master/Img/Brands%20and%20Profits.png?raw=true)
 * Females contribute to the most bike related purchases in the last 3 years 
-* Most customers are form New South Wales 
+* Most customers are form New South Wales
+![alt text](https://github.com/vbgupta/InsideSherpa-KPMG/blob/master/Img/Most%20customers%20are%20from%20this%20state.png?raw=true)
 * Most customers are from the financial sector
+![alt text](https://github.com/vbgupta/InsideSherpa-KPMG/blob/master/Img/Most%20common%20customer%20job%20industry.png?raw=true)
 
 Focus on customers that: 
 * Mass customer segment 
@@ -48,7 +53,7 @@ Marketing and Growth Strategy
 * Focus on afordibility of the Solex Brand that will be for the Mass customer segment. 
 * Advertizing can be female focused while also trageting the NSW area of Australia 
         Example: Can focus on light colored banners for the NSW area
-        
-![alt text]()
-![alt text]()
-![alt text]()
+
+
+![alt text](https://github.com/vbgupta/InsideSherpa-KPMG/blob/master/Img/Customer%20Wealth%20Segment.png?raw=true)
+![alt text](https://github.com/vbgupta/InsideSherpa-KPMG/blob/master/Img/Most%20common%20customer%20job%20industry.png?raw=true)
