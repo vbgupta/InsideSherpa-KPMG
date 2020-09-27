@@ -1,6 +1,19 @@
-# Inside_Sherpa_KPMG_VI
-KPMG Virtual Internship at Inside Sherpa Data Analysis Using R and Jupyter Notebook 
-Leveraging data provided by KPMG to help Sprokect Pty Ltd in marketing and cusotmer aquisition strategies
+# Inside Sherpa KPMG Virtual Internship
 
-Please read the other README file for a summary of the project.
-Cheers!
+## About the Internship
+In this online program, you will get to complete similar work that our Graduates do at KPMG. You will learn what it is like working at one of the world’s best data analytics team, and build skills required to excel as a analytics consultant.
+
+## Task 1
+### Data Quality Assessment
+Assessment of data quality and completeness in preparation for analysis
+
+### Data Insights
+Targeting high value customers based on customer demographics and attributes.
+
+## My Mindset
+Leverage data provided by KPMG to help Sprokect Pty Ltd in marketing and cusotmer aquisition strategies
+
+## What I used
+
+* R
+* 
